@@ -480,9 +480,7 @@ footer .footer-bottom{
 
 }
 @media screen and (max-width:950px) {
-    nav{
-        display: none;
-    }
+  
     .sec-1 .container .content a {
         font-size: 16px;
     }
