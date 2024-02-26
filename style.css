@@ -71,6 +71,15 @@ nav .nav-ul li:not(.dropdown-item){
     font-weight: 600;
     color:crimson;
 }
+  /* bar icon */
+.sec-1 header #check{
+    display: none;
+}
+.sec-1 header .checkbtn {
+    display: none;
+    font-size: 23px;
+    cursor: pointer;
+}
 .sec-1 header nav .nav-ul .nav-links-3 a i{
     font-size: 20px;
 }
